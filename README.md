@@ -24,5 +24,3 @@ Aventura inspirada en la mitología griega. El jugador recorre el Templo y el La
 ## Uso de herramientas de inteligencia artificial
 
 Para desarrollar este proyecto utilicé **ChatGPT (OpenAI) como herramienta de apoyo**, principalmente para la **generación y adaptación de imágenes** y para **aprender, configurar y depurar funciones y eventos de GDevelop que todavía no conocía**. También me sirvió para explorar posibilidades de implementación y solucionar dudas técnicas. Las decisiones sobre temática, ambientación, mecánicas y ajustes del videojuego se tomaron durante mi proceso de creación y pruebas.
-
-Este proyecto es un trabajo académico y una experiencia de aprendizaje con GDevelop.
