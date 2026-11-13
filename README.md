@@ -1,27 +1,28 @@
-# Ecos del Olimpo
+# Ecos del Olimpo 🏛️
 
-Prototipo de videojuego de plataformas desarrollado en **GDevelop**, ambientado en un templo de fantasía inspirado en la mitología griega.
+Videojuego de plataformas 2D realizado en **GDevelop** como proyecto académico del Taller de Programación de Videojuegos.
 
-## Abrir el proyecto
-1. Descargar el repositorio.
-2. Abrir GDevelop.
-3. Abrir `Ecos.json` desde GDevelop manteniendo la carpeta `assets` al mismo nivel.
+## Descripción
+
+Aventura inspirada en la mitología griega. El jugador recorre el Templo y el Laberinto, supera plataformas y obstáculos, recoge óbolos e interactúa con Hermes para continuar su camino. Incluye enemigos, cofres, una pantalla de inicio, transiciones, efectos de sonido y pantallas de victoria y derrota.
+
+## Cómo abrir el proyecto
+
+1. Descargar el repositorio completo como ZIP o clonarlo.
+2. Descomprimirlo manteniendo `Ecos.json` y la carpeta `assets` al mismo nivel.
+3. Abrir `Ecos.json` con [GDevelop](https://gdevelop.io/).
+4. Ejecutar la vista previa desde la escena `Inicio`.
 
 ## Controles
-- Flechas izquierda y derecha: desplazamiento.
-- Espacio: salto.
-- E: conversar con personajes cercanos.
-- R: reiniciar desde la pantalla de derrota.
 
-## Implementado en esta versión
-- Escena Templo con plataformas, desplazamiento y saltos.
-- Recolección de óbolos y marcador.
-- Centinela enemigo con patrulla y colisión.
-- Oráculo con diálogos.
-- Hermes y obtención de llave.
-- Pantalla GameOver y reinicio.
+- **Flechas izquierda y derecha:** moverse.
+- **Espacio:** saltar.
+- **E:** interactuar con objetos y personajes.
+- **Enter:** empezar desde el menú.
+- **R:** reiniciar en Game Over.
 
-## En desarrollo
-Segundo nivel, transición entre niveles, ambientación sonora, ampliación del recorrido y refinamiento de las animaciones.
+## Uso de herramientas de inteligencia artificial
 
-**Proyecto académico en desarrollo.** Recursos gráficos propios elaborados con apoyo de herramientas de generación de imágenes y adaptados al prototipo.
+Para desarrollar este proyecto utilicé **ChatGPT (OpenAI) como herramienta de apoyo**, principalmente para la **generación y adaptación de imágenes** y para **aprender, configurar y depurar funciones y eventos de GDevelop que todavía no conocía**. También me sirvió para explorar posibilidades de implementación y solucionar dudas técnicas. Las decisiones sobre temática, ambientación, mecánicas y ajustes del videojuego se tomaron durante mi proceso de creación y pruebas.
+
+Este proyecto es un trabajo académico y una experiencia de aprendizaje con GDevelop.
